@@ -9,9 +9,6 @@
     "autoload": {
         "classmap": ["xlsxwriter.class.php"]
     },
-    "require-dev": {
-        "phpunit/phpunit": "4.3.*"
-    },
     "require": {
         "php": ">=5.2.1",
         "ext-zip": "*"
